@@ -4,9 +4,16 @@
 .navbar {
   background-color: #61dafb;
 }
+.Brand {
+  font-size: 25pt;
+  font-weight: 500;
+  color: white;
+
+}
 
 .App-logo {
   pointer-events: none;
+  margin: auto;
   height: 40%;
 }
 
@@ -24,11 +31,12 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #61dafb;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #2D93C2;
+  font-size: 20pt;
 }
 
 

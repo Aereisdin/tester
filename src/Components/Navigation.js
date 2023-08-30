@@ -5,7 +5,7 @@ function Navi() {
     return(
         <Navbar expand="lg" className="bg-body-primary">
         <Container>
-          <Navbar.Brand href="#home">Kiel's Tester</Navbar.Brand>
+          <Navbar.Brand className="Brand" href="#home">Kiel's Tester</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
