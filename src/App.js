@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener"
         >
-          Keys to the Kingdom
+          Keys to the Kingdom yay!
         </a>
       </header>
     </div>
